@@ -33,7 +33,9 @@
 ## ✨ A Little Extra Fun
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/gaurig08/gaurig08/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
