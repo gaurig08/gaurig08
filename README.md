@@ -36,7 +36,6 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake-dark.svg#gh-dark-mode-only)
 
-
 ---
 
 ## 🌐 Connect With Me
