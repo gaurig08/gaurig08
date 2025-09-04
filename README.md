@@ -8,7 +8,7 @@
 
 ## 🚀 Tech Stack
 
-### 🔹 Languages & Core
+### 🔹 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,17 +30,13 @@
 
 ---
 
-## ✨ A Little Extra Fun
-
-### 🐍 Contribution Snake
+## 📊 GitHub Stats
 ![GitHub Snake Light](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/gaurig08/gaurig08/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 <!-- GitHub Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurig08&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurig08&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurig08&theme=tokyonight)
 
