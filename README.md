@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=80D8F7&center=false&width=500&lines=Hi+there%2C+I'm+Gauri;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=80D8F7&center=false&width=400&lines=Hi+there%2C+I'm+Gauri;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 💻 3rd Year CSE Student | Interested in **Data Analytics** & **Full Stack Development**    
 🎨 Built [GeekShelf](https://your-deployed-link.com) ✨ — a cozy React-based shelf app I built for fun, organizing movies, series, anime & books  
