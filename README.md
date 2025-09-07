@@ -45,9 +45,4 @@
 
 ---
 
- 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
-
----
-
 ⭐️ *Thanks for visiting my profile — always open to learning & collaboration!*  
