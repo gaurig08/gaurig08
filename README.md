@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=80D8F7&center=false&width=400&lines=Hi+there%2C+I'm+Gauri;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-💻 3rd Year CSE Student | Interested in **Data Analytics** & **Full Stack Development**    
+💻 3rd Year CSE Student     
 🎨 [GeekShelf](https://geek-shelf.vercel.app) ✨ — A side project built for fun, my personal digital shelf library to track and organize movies, series, anime, and books.  
 📊 Currently learning **Power BI** to create data dashboards  
 
