@@ -2,7 +2,6 @@
 
 💻 3rd Year CSE Student     
 🎨 [GeekShelf](https://geek-shelf.vercel.app) ✨ — A side project built for fun, my personal digital shelf library to track and organize movies, series, anime, and books.  
-📊 Currently learning **Power BI** to create data dashboards  
 
 ---
 
