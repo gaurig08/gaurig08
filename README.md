@@ -4,9 +4,9 @@
 🎯 Focused on Data Engineering & Analytics
 
 ### 📌 Featured Projects
-- [GeekShelf](https://geek-shelf.vercel.app) — A full-stack media tracker for anime, movies, series, and books, with real-time sync and AI-powered recommendations. Live and deployed.   
-- [Women's Safety Index Pipeline](https://github.com/gaurig08/womens-safety-index) — ETL pipeline processing 5,300+ NCRB crime records into a weighted safety index, visualized in Power BI.    
-- [Amazon Review Sentiment Analysis](https://github.com/gaurig08/amazon-review-sentiment-analysis) — ML models classifying customer sentiment from 20,000+ reviews using TF-IDF and SMOTE.
+- [GeekShelf](https://geek-shelf.vercel.app) - A full-stack media tracker for anime, movies, series, and books, with real-time sync and AI-powered recommendations. Live and deployed.   
+- [Women's Safety Index Pipeline](https://github.com/gaurig08/womens-safety-index) - ETL pipeline processing 5,300+ NCRB crime records into a weighted safety index, visualized in Power BI.    
+- [Amazon Review Sentiment Analysis](https://github.com/gaurig08/amazon-review-sentiment-analysis) - ML models classifying customer sentiment from 20,000+ reviews using TF-IDF and SMOTE.
 
 ---
 
